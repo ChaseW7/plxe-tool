@@ -1,5 +1,7 @@
 # plxe-tool
 
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/1104792474091782175)
+
 A small command-line tool and Python module for reading and writing `PLXE`
 asset containers, the wrapper format used around XML config files in several
 Playrix mobile games.
