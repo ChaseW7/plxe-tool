@@ -1,0 +1,10 @@
+# keys and game files stay local
+keys.json
+*.plxe
+*.decoded.xml
+
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.vscode/

@@ -1,0 +1,4 @@
+# Only needed for subtype 2 and subtype 4 files.
+# Subtypes 1 and 3 use the standard library alone.
+brotli>=1.0
+zstandard>=0.20
