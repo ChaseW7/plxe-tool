@@ -1,0 +1,4 @@
+{
+  "type1": "<128 hex characters: the 64-byte subtype 1 key>",
+  "type3": "<base64 of the 64-byte subtype 3 master key>"
+}
